@@ -1,0 +1,29 @@
+.qr-container {
+    height: 288px;
+    width: 288px;
+    border-radius: 0.75rem;
+    background-color: hsl(217, 75%, 50%);
+    justify-content: center;
+    align-items: center;
+    padding: 4rem ;
+}
+
+.title {
+    margin-top: 1.5rem;
+    justify-content: center;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.text {
+    margin-left: 18px;
+    justify-content: center;
+    text-align: center;
+    width: 250px;
+    margin-top: 1rem;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
+
